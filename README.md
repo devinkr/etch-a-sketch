@@ -1,2 +1,3 @@
-# etch-a-sketch
+# Etch-A-Sketch
+
 Etch-a-sketch app for Odin Project
